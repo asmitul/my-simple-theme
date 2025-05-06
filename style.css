@@ -1,0 +1,29 @@
+/*
+ Theme Name: My Simple Theme
+ Theme URI: https://example.com/my-simple-theme/
+ Author: Your Name
+ Author URI: https://example.com/
+ Description: A simple WordPress theme to build upon.
+ Version: 1.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: my-simple-theme
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, footer {
+    background: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
